@@ -1,5 +1,7 @@
 # Apache-Spark-URL-parsing
 
+##Run wiki.py using ApacheSpark
+
 *	Extracting :We start by reading the wiki page URL 
 *	Cleaning: finding href links using Regular Expression r"<a.*?\s*href=\"(.*?)\".*?>(.*?)</a>" 
 *	Loading : Creating an empty list wordlist which will contain all the links .
