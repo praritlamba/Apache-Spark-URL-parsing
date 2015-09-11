@@ -11,3 +11,5 @@
 *	UrlCountsCollected is created using the reduceByKey(). reduceByKey() transformation gathers together pairs that have the same key and applies the function provided to two values at a time, iteratively reducing all of the values to a single value.
 *	uniqueUrl calculates the number of unique URLs 
 *	top3UrlsAndCounts sorts the tuple by key and takeOrdered  use to obtain the top 3 Urls 
+
+###Test output for https://en.wikipedia.org/wiki/Facebook is stored in wiki-output.txt
